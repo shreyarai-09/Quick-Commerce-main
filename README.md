@@ -8,7 +8,7 @@ To get a local copy up and running, follow these simple steps:
 
 2. **Clone the repo**:
     ```sh
-    git clone https://github.com/sumeetpatil01/Quick-Commerce.git
+    git clone https://github.com/shreyarai-09/Quick-Commerce-main.git
     ```
 
 3. **(Optional)** Create and activate a [virtualenv](https://virtualenv.pypa.io/) (you may want to use [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/)).
